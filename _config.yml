@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weijun Gao（高惟君）"
-description              : "Research Interests: Terahertz covert and secure communications."
+description              : "Postdoctoral researcher,Terahertz Wireless Communications (TWC) Laboratory"
 repository               : "gaoweijun-sjtu/weijungao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/gwj_profile.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "University of Michigan-Shanghai Jiao Tong University (UM-SJTU) Joint Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7VXv2ZkAAAAJ"
   email            : "gaoweijun@sjtu.edu.cn"
