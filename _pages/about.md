@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # Affiliation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Terahertz Wireless Communications (TWC) Laboratory</div><img src='images/TWClogo-01.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TWClogo-01.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Postdoctoral researcher,
