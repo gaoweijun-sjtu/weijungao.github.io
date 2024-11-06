@@ -28,6 +28,7 @@ redirect_from:
 </div>
 </div>
 
+
 # Biography
 <span class='anchor' id='biography'></span>
 
